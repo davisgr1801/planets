@@ -1,1 +1,3 @@
 Here is a new text file called Venus.txt
+Makeing a change to venus.txt
+
